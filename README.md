@@ -23,7 +23,7 @@ The equations are integrated over a timespan of 100 years, taking 5000 steps.
 
 3D positions of the bodies in the Solar System after 100 years are plotted.
 
-![Solar_system](solar_system.jpeg)
+![Solar_system](New-solar-system/solar_system.jpeg)
 
 ## Adding a Second Star
 
