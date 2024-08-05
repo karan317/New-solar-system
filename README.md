@@ -25,6 +25,8 @@ The equations are integrated over a timespan of 100 years, taking 5000 steps.
 
 ![Solar_system](New-solar-system/solar_system.jpeg)
 
+![solar_system](https://github.com/user-attachments/assets/bf2f7348-0db0-4a0f-8f2a-a9f865eade48)
+
 ## Adding a Second Star
 
 A second star with the same mass as the Sun is introduced, and its parameters are defined. The new system is integrated over a timespan of 25 years.
