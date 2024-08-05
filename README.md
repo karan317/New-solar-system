@@ -23,6 +23,8 @@ The equations are integrated over a timespan of 100 years, taking 5000 steps.
 
 3D positions of the bodies in the Solar System after 100 years are plotted.
 
+![Solar_system]()
+
 ## Adding a Second Star
 
 A second star with the same mass as the Sun is introduced, and its parameters are defined. The new system is integrated over a timespan of 25 years.
