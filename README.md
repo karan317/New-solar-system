@@ -1,4 +1,10 @@
-# Project Description
+# Data Science Simulation: Introducing a Second Sun to the Solar System Using Python
+
+## Overview
+
+This project simulates the introduction of a second star to our Solar System using Python. The simulation models the interactions between the Sun, the planets, and an additional star of the same mass as the Sun. The goal is to investigate the potential disruptions caused by the second star over a span of 100 years.
+
+#### Project Description
 
 We start by setting up a model of our Solar System, including the Sun and planets. For simplicity, all masses are considered point-like, and collisions are neglected. Constants are defined to make quantities dimensionless using cgs units.
 
